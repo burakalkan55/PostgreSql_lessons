@@ -1,30 +1,22 @@
-Introduction
-
-Welcome to my PostgreSQL Data Analysis project! This repository contains SQL scripts and resources I used to analyze various datasets, focusing on job postings and skills in high demand. The goal was to identify top-paying jobs, in-demand skills, and optimal skills combinations for specific job titles.
-
-Background
-
-In this project, I utilized PostgreSQL to conduct data analysis on job postings data. The dataset includes information about job titles, companies, required skills, and salary averages. By performing various SQL queries, I aimed to uncover insights about the job market and provide valuable information for job seekers and employers.
-
-Tools I Used
-
-PostgreSQL: For database management and executing SQL queries.
-Visual Studio Code: As my code editor, with the SQLTools extension for PostgreSQL.
-Datasets: Job postings data including job titles, companies, skills required, and salaries.
-The Analysis
-The analysis was divided into several stages, each targeting a specific aspect of the job market:
+![image](https://github.com/user-attachments/assets/b9689909-f6af-47c1-a46b-c9363851fb48)1. Top Paying Data Analyst Jobs
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
 
-Creating the Database: Initial setup and creation of the database structure.
-Modifying Tables: Adjusting tables to ensure data integrity and optimal performance.
-Top Paying Jobs: Identifying the top-paying job titles based on average salary.
-Top Demand Skills: Determining which skills are in highest demand across job postings.
-Top Paying Skills: Finding out which skills are associated with the highest-paying jobs.
-Optimal Skills: Analyzing the best combination of skills for specific job titles, focusing on remote work and data analyst roles.
 
-What I Learned
-Throughout this project, I gained a deeper understanding of:
 
-SQL Query Optimization: Writing efficient queries to handle large datasets.
-Data Cleaning and Preparation: Ensuring data accuracy and consistency for reliable analysis.
-Insights into Job Market Trends: Understanding the relationship between job titles, required skills, and salary ranges.
+![image](https://github.com/user-attachments/assets/f2d27620-a602-4cc7-ba22-cddb7e7f8c79)
+
+
+
+
+![image](https://github.com/user-attachments/assets/9fb45014-dc25-4395-b1cc-bc7da2e95315)
+
+
+
+
+2. Skills for Top Paying Jobs
+To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
+
+![image](https://github.com/user-attachments/assets/2ec67153-fb2d-4b1d-90b0-e1e6e6afe5a8)
+
+![image](https://github.com/user-attachments/assets/18b3c100-96da-4051-aaee-d3ae1ab8b67c)

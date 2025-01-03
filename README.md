@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/b9689909-f6af-47c1-a46b-c9363851fb48)1. Top Paying Data Analyst Jobs
+1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+
+
 
 
 
@@ -16,6 +18,11 @@ To identify the highest-paying roles, I filtered data analyst positions by avera
 
 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/2ec67153-fb2d-4b1d-90b0-e1e6e6afe5a8)
 
